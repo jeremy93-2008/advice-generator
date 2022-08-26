@@ -10,6 +10,7 @@
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://jeremy93-2008.github.io/advice-generator",
   "keywords": [],
   "author": "",
   "license": "ISC",
