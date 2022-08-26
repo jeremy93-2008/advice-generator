@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Github Advice Generator](https://github.com/jeremy93-2008/advice-generator)
+-   Live Site URL: [Advice Generator Live Site](https://jeremy93-2008.github.io/advice-generator/)
 
 ## My process
 
